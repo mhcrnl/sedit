@@ -1,6 +1,8 @@
 # About
 ![main_layout](https://github.com/incessantmeraki/incessantmeraki.github.io/blob/master/images/sedit/phase1a.png)
 
+![screen1](Screenshots/Screenshot1.png)
+
 **sedit** is a minimal text editor which runs on Linux machine . It is implemented using *Gtk* and
 *C* programming language.
 
